@@ -21,8 +21,16 @@
 
  # git difference or changes 
  * git diff
+ # git checkout is used for checking details 
+ * git checkout
+ # git status // for cheking status 
+ * git status 
+ 
+ # for removing  
+ * git rm ["file_name"]
 
+# for histry 
+* git log 
 
-
-
+# for showing  
 
