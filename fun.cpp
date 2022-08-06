@@ -3,7 +3,6 @@ using namespace std;
 
 void func(int  a[] ){
 
-
 a[0]=90;
 
 }

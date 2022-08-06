@@ -18,8 +18,10 @@
  # git commiting or for pushing ot server 
  
  * git commit -m “[ Type in the commit message]”
- 
-  
+
+ # git difference or changes 
+ * git diff
+
 
 
 
