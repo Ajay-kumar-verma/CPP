@@ -38,8 +38,9 @@ int main(){
   cout<<"b = "<<b<<"\n";
 
   //  swap1(a,b); 
-   swap2(a,b);
-  
+  //  swap2(a,b);
+    swap3(&a,&b);
+    
   cout<<"After swapped : "<<"\n";
   cout<<"a = "<<a<<"\n";
   cout<<"b = "<<b<<"\n";
